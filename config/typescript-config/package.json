@@ -2,5 +2,8 @@
   "name": "@sass/tsconfig",
   "version": "0.0.0",
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "library.json"
+  ]
 }
