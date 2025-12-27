@@ -14,5 +14,8 @@
       "@sass/eslint-config/base"
     ]
   },
-  "prettier": "@sass/prettier"
+  "prettier": "@sass/prettier",
+  "dependencies": {
+    "@casl/ability": "^6.7.1"
+  }
 }
